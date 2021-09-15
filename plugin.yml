@@ -11,10 +11,10 @@ softdepend: []
 loadbefore: []
 permisions:
    LSkyB.Leave:
-      description: Leave to the bedwars lobby
+      description: Leave to the Skyblock lobby
       default: true
 commands: 
    Leave:
-      description: Leave to the Skywars lobby
+      description: Leave to the Skyblock lobby
       permission: LSkyB.Leave
       useage: /leave
